@@ -1,0 +1,53 @@
+{
+  "customers": [
+    {
+      "id": "257b",
+      "name": "simon",
+      "email": "simon@gmail.com",
+      "phone": "11373844654",
+      "Orders": "4 news hub magazines"
+    },
+    {
+      "id": "349d",
+      "name": "Brian",
+      "email": "simon@gmail.com",
+      "phone": "1234567890",
+      "Orders": "3 newsletters"
+    },
+    {
+      "id": "7ed8",
+      "name": "peter",
+      "email": "simon@gmail.com",
+      "phone": "0712345678",
+      "Orders": "10 magazines"
+    },
+    {
+      "id": "5081",
+      "name": "mary",
+      "email": "mary@gmail.com",
+      "phone": "4577643689",
+      "Orders": "6 newspapers"
+    },
+    {
+      "id": "f307",
+      "name": "Sheena",
+      "email": "sheena@gmail.com",
+      "phone": "1234567890",
+      "Orders": "60pcs magazines"
+    },
+    {
+      "id": "987c",
+      "name": "Monah",
+      "email": "Monah@gmail.com",
+      "phone": "234579956",
+      "Orders": "30 books"
+    },
+    {
+      "id": "bd16",
+      "name": "Ryan",
+      "email": "Ryan@gmail.com",
+      "phone": "467885445",
+      "Orders": "gjhbjhviyvil"
+    }
+  ]
+}
